@@ -1,2 +1,2 @@
 # demo-game
-awesum game
+{DEMO-GAME} IS {"FUN"} AND {"INTERACTIVE"} TEST GAME.
